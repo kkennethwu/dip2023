@@ -9,8 +9,10 @@ g++ ChromaticAdaptation.cpp
 ```
 
 # Task2
+```
 g++ Imageenhancement.cpp
 ./a.out 1 2
 ./a.out 2 2
 ./a.out 3 2
 ./a.out 4 2
+```
